@@ -24,6 +24,7 @@
 //int esTextoBasico(char* cadena);
 //int validarFloat (char *stringRecibido, int largo);
 //int getFloat(float* pResultado);
+
 void getStringPractica (char cadena[], char mensaje[], int tam );
 
 int utn_getNumero(int* pResultado, char* mensaje,char* mensajeError,int minimo, int maximo, int reintentos);
